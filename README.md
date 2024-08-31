@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Automation of data life cycle**
 
-- 🌱 I’m currently learning **Deep Dive Data Science, Machine Learning and Algorithms**
+- 🌱 I’m currently learning **Deep Dive into Deep Learning and Backend Development with Python**
 
 - 📫 How to reach me **arshmah.saeed2020@gmail.com**
 
