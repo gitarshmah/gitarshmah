@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arshmah Saeed</h1>
-<h3 align="center">A passionate cs sophomore looking forward in the world of data.</h3><br>
+<h3 align="center">A passionate cs graduate looking forward to the world of data and algorithms.</h3><br>
 
 - 🔭 I’m currently working on **Automation of data life cycle**
 
