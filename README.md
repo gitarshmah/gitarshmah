@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Deep Dive Data Science, Machine Learning and Algorithms**
 
-- 📫 How to reach me **arshmah.saeed27@gmail.com**
+- 📫 How to reach me **arshmah.saeed2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
