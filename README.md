@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arshmah Saeed</h1>
 <h3 align="center">A passionate software developer and researcher from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitarshmah&label=Profile%20views&color=0e75b6&style=flat" alt="gitarshmah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitarshmah" alt="gitarshmah" /></a> </p>
-
 - 🌱 I’m currently learning **various stack on data engineering and research**
 
 - 📫 How to reach me **arshmah.saeed2020@gmail.com**
