@@ -4,11 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Tech Enthusiast
 ----------------------
 
-* 🌍  I'm based in India
+* 🌍  Based in India
 * ✉️  You can contact me at [arshmah.saeed2020@gmail.com](mailto:arshmah.saeed2020@gmail.com)
-* 🧠  I'm learning backend development and research models.
+* 🧠  I'm learning backend development and deep learning.
 * 🤝  I'm open to collaborating on open-source projects
-* ⚡  I love playing badminton.
 
 ### Skills
 
